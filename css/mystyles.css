@@ -61,3 +61,13 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
+
+
+.white {
+    color: #fff;
+}
+
+#email, #password{
+    width: 150px;
+}
+
